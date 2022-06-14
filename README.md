@@ -1,7 +1,50 @@
 <h1> Shapes</h1>
-<ul>
-  <li><b>Description:</b> What does the current project do? Include improvements you made in the description.</li>
-  <li><b>How to Run:</b> This is information someone would use to run your project on their machine.</li>
-  <li><b>Roadmap of Future Improvements:</b> What additional features or functionality would be helpful to a user?</li>
-  <li><b>License Information:</b> This should include information about the MIT license.</li>
-</ul>
+
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+    </li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#license">License</a></li>
+  </ol>
+</details>
+
+
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
+Description
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
+<!-- USAGE EXAMPLES -->
+## Usage
+
+Info someone would use to get started running your project on their machine
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
+<!-- ROADMAP -->
+## Roadmap
+
+- [X] What you plan to work on next in this repo
+- [ ] 
+
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
+<!-- LICENSE -->
+## License
+
+Distributed under the MIT License. See `LICENSE.txt` for more information.
+
+<p align="right">(<a href="#top">back to top</a>)</p>
