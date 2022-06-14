@@ -16,7 +16,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Description
+In this activity, we practiced defining objects and their properties. After mastering a basic circle, we were given an image of a diamond-esque shape made out of different colored circles overlayed on each other. It took some trial and error (and loads of patience!), but I was able to recreate the image.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -25,7 +25,7 @@ Description
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Info someone would use to get started running your project on their machine
+Load up the HTML files to see the shapes. Play with the code to make your own.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -34,9 +34,10 @@ Info someone would use to get started running your project on their machine
 <!-- ROADMAP -->
 ## Roadmap
 
-- [X] What you plan to work on next in this repo
-- [ ] 
-
+- [X] Change the color of the circle
+- [X] Change the size of the circle
+- [X] Create multiple circles
+- [ ] Make the circle move. (See <a href= "https://github.com/marysabelmejia/moveBall-challenge">moveBall Challenge></a>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
