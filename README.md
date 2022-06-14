@@ -37,7 +37,7 @@ Load up the HTML files to see the shapes. Play with the code to make your own.
 - [X] Change the color of the circle
 - [X] Change the size of the circle
 - [X] Create multiple circles
-- [ ] Make the circle move. (See <a href= "https://github.com/marysabelmejia/moveBall-challenge">moveBall Challenge></a>
+- [ ] Make the circle move. (See <a href= "https://github.com/marysabelmejia/moveBall-challenge">moveBall Challenge</a>).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
